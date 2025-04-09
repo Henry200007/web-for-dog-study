@@ -112,67 +112,7 @@
     <p><strong>Câu Slogan:</strong> Ngủ là cách healing tốt nhất</p>
     <p><strong>Facebook:</strong> <a href='https://www.facebook.com/share/15jgfeQV7W/' target="_blank">Nguyễn Khoa</a></p>
   </div>
-
-  <!-- Thành viên 2 -->
-  <div class="member">
-    <img src="https://cdn.glitch.global/f00da8d9-199b-4090-95e6-f12611e595db/%E1%BA%A3nh%20huy%20khoa.jpg?v=1744125279660" />
-    <h3>Trần Huy Khoa</h3>
-    <p>Tổ trưởng</p>
-    <p><strong>Sở thích:</strong> Chơi game</p>
-    <p><strong>Ngày sinh:</strong> 28/09/2007</p>
-    <p><strong>Giới tính:</strong> Nam</p>
-    <p><strong>Quê quán:</strong> Nam Định</p>
-    <p><strong>Số điện thoại:</strong> 0915438086</p>
-    <p><strong>Bản nhạc yêu thích:</strong> Hồng Nhan</p>
-    <p><strong>Câu Slogan:</strong> Không có gì là không thể, chỉ là bạn có muốn hay không</p>
-    <p><strong>Facebook:</strong> <a href="https://www.facebook.com/share/1De8bTF6zQ/" target="_blank">Trần Khoa</a></p>
-  </div>
-
-  <!-- Thành viên 3 -->
-  <div class="member">
-    <img src="https://cdn.glitch.global/f00da8d9-199b-4090-95e6-f12611e595db/Ph%C6%B0%C6%A1ng%20th%E1%BA%A3o.jpg?v=1744127133238" />
-    <h3>Nguyễn Phương Thảo</h3>
-    <p>Lớp phó học tập</p>
-    <p><strong>Sở thích:</strong> nghe nhạc, đi du lịch, ăn uống</p>
-    <p><strong>Ngày sinh:</strong> 31/08/2007</p>
-    <p><strong>Giới tính:</strong> Nữ</p>
-    <p><strong>Quê quán:</strong> Thạch Hà - Hà Tĩnh</p>
-    <p><strong>Số điện thoại:</strong> 0947717216</p>
-    <p><strong>Bản nhạc yêu thích:</strong> Chờ anh nhé</p>
-    <p><strong>Câu Slogan:</strong> "Hãy luôn tin tưởng vào bản thân và không bao giờ bỏ cuộc. Mỗi bước đi, mỗi nỗ lực, đều là một bước tiến gần hơn đến mục tiêu của bạn."</p>
-    <p><strong>Facebook:</strong> <a href="https://www.facebook.com/share/12FXKnSLn8b/" target="_blank">Nguyễn Thảo</a></p>
-  </div>
-
-  <!-- Thành viên 4 -->
-  <div class="member">
-    <img src="https://cdn.glitch.global/f00da8d9-199b-4090-95e6-f12611e595db/anh%20ki%E1%BB%81u.jpg?v=1744127193644" />
-    <h3>Nguyễn Kiều Anh</h3>
-    <p>Nhà phân tích</p>
-    <p><strong>Sở thích:</strong> Shopping</p>
-    <p><strong>Ngày sinh:</strong> 08/09/2007</p>
-    <p><strong>Giới tính:</strong> Nữ</p>
-    <p><strong>Quê quán:</strong> Hà Đông, Hà Tây - Hà Nội</p>
-    <p><strong>Số điện thoại:</strong> 0915187068</p>
-    <p><strong>Bản nhạc yêu thích:</strong> Yeu don phuong mot ng xa</p>
-    <p><strong>Câu Slogan:</strong> "Thất bại không đáng sợ, đáng sợ là không dám thử"</p>
-    <p><strong>Facebook:</strong> <a href="https://www.facebook.com/share/1A4feJsZFV/?mibextid=wwXIfr" target="_blank">Kieu Anh</a></p>
-  </div>
-
-  <!-- Thành viên 5 -->
-  <div class="member">
-    <img src="https://cdn.glitch.global/f00da8d9-199b-4090-95e6-f12611e595db/qu%E1%BB%91c%20huy.jpg?v=1744127202128" />
-    <h3>Phạm Quốc Huy</h3>
-    <p>Cầu thủ</p>
-    <p><strong>Sở thích:</strong> Đá bóng</p>
-    <p><strong>Ngày sinh:</strong> 20/03/2007</p>
-    <p><strong>Giới tính:</strong> Nam</p>
-    <p><strong>Quê quán:</strong> Hoa Lư - Ninh Bình</p>
-    <p><strong>Số điện thoại:</strong> 0837425540</p>
-    <p><strong>Bản nhạc yêu thích:</strong> 1 con vịt</p>
-    <p><strong>Câu Slogan:</strong> Bạn thất bại khi nghĩ bản thân đã hoàn hảo</p>
-    <p><strong>Facebook:</strong> <a href="https://www.facebook.com/share/1A1aGz3Fz8/?mibextid=wwXIfr" target="_blank">Phạm Quốc Huy</a></p>
-  </div>
-
+      
   <!-- Thành viên 6 -->
   <div class="member">
     <img src="https://cdn.glitch.global/f00da8d9-199b-4090-95e6-f12611e595db/anh%20hi%E1%BA%BFu.jpg?v=1744127211248" />
